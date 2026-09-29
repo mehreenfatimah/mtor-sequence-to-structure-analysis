@@ -127,7 +127,3 @@ mtor-sequence-to-structure-analysis/
 │   └── README.md
 └── results/
 ```
-
-## Note on the original report
-
-The original academic report is not included in this package because it was not present in the prepared GitHub ZIP. If the original PDF is later recovered, it can be added under `docs/` as supporting academic evidence without changing the repository's main structure.
