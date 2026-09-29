@@ -1,14 +1,13 @@
 # MTOR — Sequence-to-Structure Bioinformatics Analysis
 
-An undergraduate bioinformatics case study exploring the human **MTOR** gene across sequence information, genetic variation, evolutionary context, RNA/protein structure, and biological pathways.
+A multi-layered bioinformatics analysis of the human **MTOR** gene, integrating sequence information, genetic variation, evolutionary context, RNA/protein structure, and biological pathways.
 
 ## Project overview
 
-The goal of this project was to follow one biologically important gene across multiple levels of analysis and connect information from public bioinformatics resources into a coherent interpretation.
+This project examines MTOR across multiple levels of biological analysis, combining information from public bioinformatics databases and computational tools to connect sequence, variation, structure, evolution, and functional context.
 
 **Gene studied:** MTOR  
 **NCBI Gene ID:** 2475  
-**Academic context:** BIO310 undergraduate coursework
 
 ## Analysis workflow
 
