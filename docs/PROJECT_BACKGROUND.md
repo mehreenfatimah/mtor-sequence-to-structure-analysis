@@ -39,4 +39,4 @@ This repository is intended to demonstrate undergraduate bioinformatics analysis
 
 ## Original analysis evidence
 
-The original semester report is preserved in this repository as `MTOR_original_semester_report.pdf`. Selected result figures from that report are also surfaced in `results/` for easier review.
+Selected figures from the original analysis are included in `results/` for easier review.

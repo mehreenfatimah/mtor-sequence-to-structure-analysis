@@ -145,9 +145,6 @@ Protein-level analysis included structural interpretation using AlphaFold/UniPro
 
 KEGG and Reactome were used to place MTOR in broader signalling and disease-related pathway context.
 
-## Original report
-
-The complete semester report is included at [`docs/MTOR_original_semester_report.pdf`](docs/MTOR_original_semester_report.pdf).
 
 ## Repository structure
 
