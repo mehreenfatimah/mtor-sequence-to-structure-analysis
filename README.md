@@ -1,10 +1,10 @@
 # MTOR — Sequence-to-Structure Bioinformatics Analysis
 
-A multi-layered bioinformatics analysis of the human **MTOR** gene, integrating sequence information, genetic variation, evolutionary context, RNA/protein structure, and biological pathways.
+A multi-layered bioinformatics analysis of the human **MTOR** gene integrating sequence information, genetic variation, evolutionary context, RNA/protein structure, and biological pathways.
 
 ## Project overview
 
-This project examines MTOR across multiple levels of biological analysis, combining information from public bioinformatics databases and computational tools to connect sequence, variation, structure, evolution, and functional context.
+The goal of this project was to follow one biologically important gene across multiple levels of analysis and connect information from public bioinformatics resources into a coherent interpretation.
 
 **Gene studied:** MTOR  
 **NCBI Gene ID:** 2475  
@@ -110,6 +110,44 @@ Historical screenshots or machine-readable outputs that were not preserved are *
 - Some stages of the original analysis used interactive web tools, so exact historical tool/database versions were not preserved.
 - This is an undergraduate bioinformatics case study, not a clinical interpretation pipeline.
 - Predicted or database-reported variant effects should not be treated as proof of clinical causality.
+
+## Selected results
+
+The original analysis report contains the main project outputs. Selected figures are included here so the repository shows the actual analytical evidence rather than only code and documentation.
+
+### BLAST and sequence analysis
+![BLAST results](results/01_blast_results.png)
+
+The MTOR reference sequence was examined with NCBI/BLAST to identify significant sequence matches and conserved regions.
+
+### Variant analysis
+![VEP variant analysis](results/02_vep_variant_analysis.png)
+
+Ensembl VEP was used to inspect candidate MTOR variants and their predicted consequences. Because public database annotations change over time, historical screenshots are presented as part of the original analysis; the included Ensembl lookup script can be used to query current annotations.
+
+### Phylogenetic analysis
+![Phylogenetic tree](results/03_phylogenetic_tree.png)
+
+MTOR sequences from multiple species were compared to examine evolutionary relationships and conservation.
+
+### RNA secondary structure
+![RNA secondary structure](results/04_rna_structure.png)
+
+RNAfold was used to examine predicted secondary-structure features in an MTOR-related transcript sequence.
+
+### Protein structure
+![Protein structure](results/05_protein_structure.png)
+
+Protein-level analysis included structural interpretation using AlphaFold/UniProt-linked structural information and related modelling resources.
+
+### Pathway analysis
+![Pathway analysis](results/06_pathway_analysis.png)
+
+KEGG and Reactome were used to place MTOR in broader signalling and disease-related pathway context.
+
+## Original report
+
+The complete semester report is included at [`docs/MTOR_original_semester_report.pdf`](docs/MTOR_original_semester_report.pdf).
 
 ## Repository structure
 

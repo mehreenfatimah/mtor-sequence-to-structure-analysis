@@ -35,3 +35,8 @@ The archived coursework discusses `rs1057519777`. Variant annotations can change
 ## Scientific scope
 
 This repository is intended to demonstrate undergraduate bioinformatics analysis, use of biological databases, sequence/variant/structure concepts, and scientific interpretation. It is **not** intended for clinical diagnosis or medical decision-making.
+
+
+## Original analysis evidence
+
+The original semester report is preserved in this repository as `MTOR_original_semester_report.pdf`. Selected result figures from that report are also surfaced in `results/` for easier review.
