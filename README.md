@@ -149,7 +149,7 @@ KEGG and Reactome were used to place MTOR in broader signalling and disease-rela
 ## Repository structure
 
 ```text
-mtor-sequence-to-structure-analysis/
+MTOR-Sequence-to-Structure-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── scripts/
